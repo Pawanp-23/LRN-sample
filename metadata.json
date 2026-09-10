@@ -1,0 +1,6 @@
+{
+  "name": "Paasa - Global Investing",
+  "description": "Institutional-grade global wealth intelligence, US stocks, ETFs, UCITS tax protection, and automated LRS compliance for global investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
